@@ -1,7 +1,7 @@
 # Retrieval Models
 
 When you examine most of the publicly availe recommender systems, retrieval is there. In production environments we like to pick from a huge list of items and present it to the users in a way that aligns with users preference.
-However, training any model to calulate an optimal ordering on such a huge list is computationaly infeasible. To alveit this issue retrieval reduces the size of this set.
+However, training any model to calulate an optimal ordering on such a huge list is computationaly infeasible. But, retrieval reduces the size of this set.
 
 ## How it can be done?
 
